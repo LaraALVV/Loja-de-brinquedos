@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MarylojadebrinquedosApplication<marylojadebrinquedos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.maryhaven.marylojadebrinquedos.MarylojadebrinquedosApplication",
+            "projectName": "marylojadebrinquedos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
